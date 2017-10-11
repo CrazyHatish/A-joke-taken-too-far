@@ -73,4 +73,4 @@ plt.title('Alfabetismo vs. Rank')
 
 plt.grid(b=True, alpha=0.2)
 
-plt.show()
+plt.savefig('graph.svg')

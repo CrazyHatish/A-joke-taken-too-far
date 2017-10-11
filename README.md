@@ -1,1 +1,3 @@
 I guess this good way to practice matplotlib...
+
+![Result Example](graph.svg)
